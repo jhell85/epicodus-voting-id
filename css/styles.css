@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  background: green;
+  height: 500px;
+  width: auto;
+}
+
+#voting-over {
+display: none;
+}
+#voting-under {
+  display: none;
+}
